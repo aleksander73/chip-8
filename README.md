@@ -1,2 +1,3 @@
 # chip-8
-CHIP-8 emulator written in C++ and SDL
+
+CHIP-8 emulator developed in C++ and SDL
